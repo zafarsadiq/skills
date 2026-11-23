@@ -91,6 +91,10 @@ A reference to the parent issue on the tracker (if the source was an existing is
 
 The end-to-end behaviour this ticket makes work, from the user's perspective, not layer-by-layer implementation.
 
+## Naming & Numbering
+- Number every generated ticket sequentially (e.g., `TICKET-001`, `TICKET-002`, or `001-<slug>.md` for local markdown files) in the exact execution/dependency order.
+- Reference tickets by their assigned number when listing blocking edges (e.g., `Blocked by: TICKET-001`).
+
 ## Acceptance criteria
 
 - [ ] Criterion 1
