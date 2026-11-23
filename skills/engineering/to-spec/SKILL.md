@@ -64,6 +64,11 @@ A list of testing decisions that were made. Include:
 - Which modules will be tested
 - Prior art for the tests (i.e. similar types of tests in the codebase)
 
+## Naming & Numbering
+- Always prefix every spec with a zero-padded sequential number (e.g., `SPEC-001`, `SPEC-002`) in both the spec title and filename (e.g., `001-<slug>.md`).
+- Check existing specs in the tracker or spec directory first and increment from the highest existing number.
+
+
 ## Out of Scope
 
 A description of the things that are out of scope for this spec.
