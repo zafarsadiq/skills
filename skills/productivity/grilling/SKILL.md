@@ -20,6 +20,9 @@ Format a round like so:
 
 ➡️ <your recommended answer>
 ```
+## Questioning Rules
+- **Strictly one question per turn:** Never batch or list multiple questions in a single response. Ask exactly ONE question, wait for the user's answer, and then proceed to the next branch of the decision tree.
+- Provide your recommended answer alongside the single question when applicable.
 
 Word each question so "yes" accepts your recommended answer.
 
